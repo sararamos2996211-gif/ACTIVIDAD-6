@@ -1,0 +1,5 @@
+REFLEXION ACTVIDAD #6
+
+PREGUNTA REFLESIVA:¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+
+RESPUESTA:"Es importante que las plataformas tecnológicas puedan recibir reportes o información de forma estructurada porque esto permite organizar mejor los datos enviados por los ciudadanos. Cuando la información sigue un formato claro, es más fácil revisarla, almacenarla y analizarla. Además, ayuda a evitar errores, datos incompletos o confusiones. Las entidades pueden responder de manera más rápida y eficiente a las necesidades de la comunidad. También facilita la creación de estadísticas y reportes para tomar mejores decisiones. Una información bien organizada mejora la comunicación entre ciudadanos e instituciones. Esto fortalece la transparencia y la confianza en los servicios digitales. Por estas razones, la estructura de los datos es fundamental en las plataformas tecnológicas.
